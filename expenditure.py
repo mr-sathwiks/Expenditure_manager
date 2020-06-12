@@ -1,9 +1,9 @@
-from tkinter import *					#pip install tkintertable
-from tkcalendar import DateEntry		#pip install tkcalendar
-import back								#importing backend python script
-from tkinter import messagebox
-import os
-import subprocess						#pip install subprocess.run
+from tkinter import *				# pre-installed in python
+from tkcalendar import DateEntry		# pip install tkcalendar
+import back					# importing backend python script
+from tkinter import messagebox			# pre-installed in python
+import os					# pre-installed in python
+import subprocess				# pip install subprocess.run
 
 #download DB Brouser for sqlite3 ( https://sqlitebrowser.org/dl/ )
 
